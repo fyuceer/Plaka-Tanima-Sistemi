@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.vscode/
+
+# YOLO model dosyaları
+*.pt
+*.onnx
+
+# OCR / plaka kayıtları
+plates.csv
+plaka.txt
